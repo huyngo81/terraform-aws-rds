@@ -1,4 +1,5 @@
-# Clone from terraform registry (https://github.com/terraform-aws-modules/terraform-aws-rds/) and fix postgres db create minor issue
+# Clone from terraform registry module and fix postgres db create minor issue
+https://github.com/terraform-aws-modules/terraform-aws-rds/
 
 # AWS RDS Terraform module
 
