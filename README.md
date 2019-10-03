@@ -232,3 +232,6 @@ Module managed by [Anton Babenko](https://github.com/antonbabenko).
 ## License
 
 Apache 2 Licensed. See LICENSE for full details.
+=======
+# terraform-aws-rds
+clone from terraform registry and fix postgres db create
