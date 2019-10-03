@@ -1,3 +1,5 @@
+# Clone from terraform registry (https://github.com/terraform-aws-modules/terraform-aws-rds/) and fix postgres db create minor issue
+
 # AWS RDS Terraform module
 
 Terraform module which creates RDS resources on AWS.
@@ -234,4 +236,3 @@ Module managed by [Anton Babenko](https://github.com/antonbabenko).
 Apache 2 Licensed. See LICENSE for full details.
 =======
 # terraform-aws-rds
-clone from terraform registry and fix postgres db create
